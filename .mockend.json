@@ -4,6 +4,7 @@
     "last_name": "string",
     "email": "string",
     "created_at": "date",
-    "updated_at": "date"
+    "updated_at": "date",
+    "updated_at_unix": "int"
   }
 }
