@@ -2,7 +2,7 @@
   "User": {
     "given_name": {"string": {}},
     "surname": {"string": {}},
-    "email": { "regexp": "[a-z]{3}@acme\\.com" },
+    "email": { "regexp": "[a-z]{4}@acme\\.com" },
     "created_at": {"dateTime": {"min": "1969-12-31T16:00:00-08:00", "max": "2022-12-26T11:30:07-08:00"}},
     "updated_at": {"dateTime": {"min": "1969-12-31T16:00:00-08:00", "max": "2022-12-26T11:30:07-08:00"}},
     "updated_at_unix": {"int": {"min": 0, "max": 1672082914}}
